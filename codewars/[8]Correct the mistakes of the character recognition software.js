@@ -6,7 +6,7 @@ function correct(string)
     "1": "I",
   };
   return (
-        string
+      string
 
       .split("")
 
