@@ -14,3 +14,4 @@ function howMuchILoveYou(nbPetals) {
       return arr[i%6];
     }
   }
+}
